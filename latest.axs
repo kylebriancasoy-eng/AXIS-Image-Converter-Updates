@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "module_id": "image_converter",
+  "application_version": "v0.1.150",
+  "installer_type": "Inno Setup",
+  "installer_version": "6.7.3",
+  "file_name": "AXIS_ImageConverter_v0.1.150_Setup.exe",
+  "size_bytes": 224203684,
+  "sha256": "315c1e91ed6c1db917181e1ed3b2e942bcede75c549f05d2955f864d03047b31",
+  "scope": "current_user",
+  "app_id": "AXIS.ImageConverter.Windows",
+  "preserves_external_user_data": true,
+  "supports_update_mode": true,
+  "retains_local_setup": true,
+  "code_signed": false,
+  "verification_passed": true,
+  "download_url": "https://github.com/kylebriancasoy-eng/AXIS-Image-Converter-Updates/releases/download/v0.1.150/AXIS_ImageConverter_v0.1.150_Setup.exe",
+  "channel": "alpha",
+  "release_notes": "Setup-based updates, update notifications, verified downloads and local setup repair. Settings, history and converted files are preserved."
+}
