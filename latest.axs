@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "module_id": "image_converter",
-  "application_version": "v0.1.151",
+  "application_version": "v0.1.152",
   "installer_type": "Inno Setup",
   "installer_version": "6.7.3",
-  "file_name": "AXIS_ImageConverter_v0.1.151_Setup.exe",
-  "size_bytes": 224216475,
-  "sha256": "c0a80d939b4ea1cf561faf3d11d86a17f19c0e44112a9e320612daa0a94655a8",
+  "file_name": "AXIS_ImageConverter_v0.1.152_Setup.exe",
+  "size_bytes": 224224450,
+  "sha256": "f91fef817d9a46e6a2c3bd4c52deafddebe29d6a67fd94adf65068c2ddb5eb33",
   "scope": "current_user",
   "app_id": "AXIS.ImageConverter.Windows",
   "preserves_external_user_data": true,
@@ -14,7 +14,7 @@
   "retains_local_setup": true,
   "code_signed": false,
   "verification_passed": true,
-  "download_url": "https://github.com/kylebriancasoy-eng/AXIS-Image-Converter-Updates/releases/download/v0.1.151/AXIS_ImageConverter_v0.1.151_Setup.exe",
+  "download_url": "https://github.com/kylebriancasoy-eng/AXIS-Image-Converter-Updates/releases/download/v0.1.152/AXIS_ImageConverter_v0.1.152_Setup.exe",
   "channel": "alpha",
-  "release_notes": "Single Updates title bar, Settings uninstall action and splash theme alignment. Settings, history and converted files are preserved."
+  "release_notes": "Flush maximized window edges with system frame preferences restored in normal mode. Settings, history and converted files are preserved."
 }
